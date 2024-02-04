@@ -1,0 +1,5 @@
+.idea/
+/auth/*
+!/auth/.gitkeep
+/images/*
+!/images/.gitkeep
